@@ -12,5 +12,10 @@ I've switched over to `uv` for control of the packages and environment for this 
     uv init
     uv add opencv-python pycocotools matplotlib onnxruntime onnx
 
+## Model
+
+I've downloaded the largest model here:
+
+    checkpoints/sam_vit_h_4b8939.pth
 
 
